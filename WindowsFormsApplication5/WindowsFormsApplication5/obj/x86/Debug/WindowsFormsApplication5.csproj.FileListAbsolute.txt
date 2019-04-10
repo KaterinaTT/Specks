@@ -1,0 +1,46 @@
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form5.resources
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form6.resources
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form7.resources
+c:\users\notepad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form8.resources
+C:\Users\NotePad.by\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form5.resources
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form6.resources
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form7.resources
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form8.resources
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\курсовой проект\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojAssemblyReference.cache
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form7.resources
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form8.resources
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\use\Desktop\Таращук Екатерина\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
